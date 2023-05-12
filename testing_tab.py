@@ -8,7 +8,7 @@ import re
 st.set_page_config(page_title="BPI Payload", layout="wide")
 
 
-st.subheader("Welcome to BOT World!")
+st.subheader("Welcome to BOT World! Tamanna")
 
 
 option = st.selectbox("Select the attribute for which you need data", ('Compute Node', 'gnbdu'))
